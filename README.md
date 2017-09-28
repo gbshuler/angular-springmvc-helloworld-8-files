@@ -33,4 +33,4 @@ localhost:8080/angular-springmvc-helloworld-8-files/helloworld/1
 This makes a REST call into a Spring MVC controller and spouts a hello response to the view.
 (The context path "angular-springmvc-helloworld-8-files" is horendous.  
 // todo - replace "angular-springmvc-helloworld-8-files" with "HelloAngularJSSpringMVC" or something readable)
-  
+   
