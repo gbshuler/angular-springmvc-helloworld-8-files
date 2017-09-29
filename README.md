@@ -17,7 +17,7 @@ WebContent/META-INF/MANIFEST.MF
 WebContent/WEB-INF/views/static/hello.html
 WebContent/WEB-INF/web.xml
 
-This is all you need to build with maven.  Sure, you could use Spring Boot, or the official "cli quickstart" but those methods of "bootstrapping" creates dozens of files that complicate just saying "hello".  
+This is all you need to build with maven.  Sure, you could use Spring Boot, or the official "cli quickstart" but those methods of "bootstrapping" create dozens of files that complicate just saying "hello".  
 
 These additional files are needed to jump into a project for Eclipse Dynamic Web Application (Eclipse Oxygen, Tomcat 8.0.x on Windows)
 .classpath
@@ -28,7 +28,7 @@ These additional files are needed to jump into a project for Eclipse Dynamic Web
 .settings/org.eclipse.wst.validation.prefs
  
 When you get the project deployed, the hello world URL is 
-localhost:8080/angular-springmvc-helloworld-8-files/helloworld/1
+localhost:8080/angular-springmvc-helloworld-8-files/hello/1
 
 This makes a REST call into a Spring MVC controller and spouts a hello response to the view.
 (The context path "angular-springmvc-helloworld-8-files" is horendous.  
